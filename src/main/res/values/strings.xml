@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Meal Ordering</string>
+    <string-array name="meals">
+        <item>Choose your meal</item>
+        <item>Poutine</item>
+        <item>Begals</item>
+        <item>Bacon</item>
+        <item>Soup</item>
+        <item>Chips</item>
+        <item>Sandwich</item>
+    </string-array>
+
+
+<!--    <string name = "10" >10%</string>-->
+<!--    <string name="fifteen">15%</string>-->
+<!--    <string name="Twenty">20%</string>-->
+</resources>
